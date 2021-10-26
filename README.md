@@ -11,5 +11,6 @@
 למשחק יהיו כמה רמות וכמה שלבים.
 
 למידע נוסף: 
+[לחץ כאן](https://github.com/S-DevelopeGame/EatAndSolve/wiki)
   
 </div>
